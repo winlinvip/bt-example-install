@@ -1,0 +1,2 @@
+# bt-plugin-example-install
+
